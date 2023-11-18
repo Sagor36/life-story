@@ -4,3 +4,4 @@ I want to be a Business Man and billionaire.
 I have to buy wifi wrouter.
 I started to learn fullstack webdevelopment course in 2022
 Added some text for feature 2.
+I fixed that issue.
